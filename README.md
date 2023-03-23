@@ -1,6 +1,6 @@
 # Crea tu propio chatbot con la API de OpenAI y Gradio en Python
 
-Este es el codigo fuente de una publicación que esta en mi blog [https://blog.rafnixg.dev/crea-tu-propio-chatbot-con-la-api-de-openai-y-gradio-en-python](Crea tu propio chatbot con la API de OpenAI y Gradio en Python)
+Este es el codigo fuente de una publicación que esta en mi blog https://blog.rafnixg.dev/crea-tu-propio-chatbot-con-la-api-de-openai-y-gradio-en-python
 
 
 ## Instalación
