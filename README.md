@@ -23,5 +23,5 @@ $ python3 chatbot.py
 ```
 
 ![Corriendo la app](https://cdn.hashnode.com/res/hashnode/image/upload/v1679438402612/e8a57a90-5afd-4d5e-9dfa-a6ef90d6bd3e.png?auto=compress,format&format=webp)
-
+Ingresando a http://127.0.0.1:7860
 ![Vista web](https://cdn.hashnode.com/res/hashnode/image/upload/v1679438572766/7cba6334-d1b2-43bb-b34c-4c60369c4151.png?auto=compress,format&format=webp)
